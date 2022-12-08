@@ -104,6 +104,9 @@ img {
 	line-height: 1.5;
 	cursor: pointer;
 }
+.our-link.line {
+	color: var(--logo-hover-color);
+}
 .site-nav .our-link:hover,
 .site-nav .our-link:focus {
 	color: var(--primary-text-color);
